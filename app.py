@@ -123,5 +123,4 @@ def get_data():
     })
 
 if __name__ == '__main__':
-    # Running in debug mode for easier testing
     app.run(debug=True)
